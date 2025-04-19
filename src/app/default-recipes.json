@@ -1,0 +1,18 @@
+
+[
+  {
+    "title": "Quick Tomato Pasta",
+    "ingredients": ["Pasta", "Canned Tomatoes", "Garlic", "Olive Oil", "Basil"],
+    "instructions": "Boil pasta. Sauté garlic in olive oil, add tomatoes, and simmer. Mix sauce with pasta, garnish with basil."
+  },
+  {
+    "title": "Simple Cheese Omelette",
+    "ingredients": ["Eggs", "Cheese", "Milk", "Salt", "Pepper"],
+    "instructions": "Whisk eggs with milk, salt, and pepper. Pour into a pan, add cheese, and cook until set."
+  },
+  {
+    "title": "Easy Chicken Stir-Fry",
+    "ingredients": ["Chicken Breast", "Soy Sauce", "Broccoli", "Carrots", "Ginger"],
+    "instructions": "Stir-fry chicken and ginger. Add broccoli and carrots, then soy sauce. Cook until tender."
+  }
+]
